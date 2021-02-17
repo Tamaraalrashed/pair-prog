@@ -1,0 +1,29 @@
+body{
+width: 960px;
+
+margin: auto;
+background-color: grey;
+}
+body main{
+ background-color:beige;
+
+}
+#Welcome {
+    color: black;
+
+    background-color: cornflowerblue;
+    text-align: center;
+
+
+}
+
+body main {
+ font-family: fantasy;
+ font-style: italic; 
+ line-height: 21px;
+}
+body main ol li:nth-child(odd){
+background-color: burlywood;
+color:rgb(35, 66, 20);
+
+}
